@@ -4,7 +4,9 @@
 */
 
 html {
-  font-family: sans-serif;
+  font-family: helvetica;
+
+
   -webkit-user-select: none; /* disable selection */
   -webkit-user-drag: none; /* disable dragging */
   cursor: default; /* use default cursor */
